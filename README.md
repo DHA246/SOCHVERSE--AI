@@ -1,0 +1,1 @@
+Samvaad AI is a full-stack AI chat application with user authentication, private chat threads, and persistent conversation history. It uses a React frontend, an Express/MongoDB backend, and a local Ollama model for assistant responses.
